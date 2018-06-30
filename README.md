@@ -1,6 +1,6 @@
 # Puppies + Babies
 
-## Objectives
+## Objectives   
 + Load jQuery in HTML file
 + Use jQuery to manipulate HTML
 
